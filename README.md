@@ -1,2 +1,10 @@
 # taspect
-Typescript Aspect Oriented Programming Library
+Library to use Aspect Oriented Programming ( AOP ) in TypeScript projects. 
+
+## Installation
+Install taspect with npm using install 
+
+```
+npm install taspect
+```
+

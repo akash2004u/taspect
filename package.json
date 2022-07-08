@@ -1,6 +1,6 @@
 {
   "name": "taspect",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Typescript AOP Library",
   "main": "index.js",
   "scripts": {
@@ -26,7 +26,7 @@
     "tag": "under-development"
   },
   "bugs": {
-    "url": "https://github.com/akash2004u/taspectp/issues"
+    "url": "https://github.com/akash2004u/taspect/issues"
   },
   "homepage": "https://github.com/akash2004u/taspect#readme",
   "dependencies": {
