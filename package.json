@@ -1,0 +1,35 @@
+{
+  "name": "taspect",
+  "version": "0.0.1",
+  "description": "Typescript AOP Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\"",
+    "build": "echo \"Build Pending\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akash2004u/taspect.git"
+  },
+  "keywords": [
+    "AOP",
+    "Aspect",
+    "Aspet Oriented Programming"
+  ],
+  "author": {
+    "name": "Akash Yadav",
+    "email": "akash2004u@gmail.com"
+  },
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "tag": "under-development"
+  },
+  "bugs": {
+    "url": "https://github.com/akash2004u/taspectp/issues"
+  },
+  "homepage": "https://github.com/akash2004u/taspect#readme",
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
+}
